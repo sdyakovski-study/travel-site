@@ -1,0 +1,23 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "Web Development Tutotial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdyakovski-study/travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdyakovski-study/travel-site/issues"
+  },
+  "homepage": "https://github.com/sdyakovski-study/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
