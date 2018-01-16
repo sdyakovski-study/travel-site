@@ -1,1 +1,21 @@
-a:{}
+$mainBlue: #2F5572;
+
+a {
+  bgcolor: $mainBlue;
+}
+
+body {
+  padding: 25px;
+  margin: 10px;
+  columns: 300px 2;
+}
+
+.box {
+  display: block;
+  a {
+    padding: 10px;
+  };
+  b {
+    padding: 15px;
+  };
+}
